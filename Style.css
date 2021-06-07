@@ -1,0 +1,103 @@
+.carousel-inner {
+    width: 700px;
+    margin: auto;
+    min-width: 60%;
+    max-height: 50%;
+}
+.display-1{
+    color: rgb(0, 0, 139) !important; /* Untuk mengubah warna navbar bran dan nav-link */
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5); /* Untuk memberikan efek shadow pada text */
+}
+.img-fluid{
+    margin-left: 10px;
+}
+
+.col-sm {
+    margin-top: 50px;
+}
+.card {
+    height: 350px;
+}
+.card:hover {
+    box-shadow: 3px 3px 30px 3px rgba(106, 6, 238, 0.5);
+}
+
+.card-img-top {
+    min-height: 70%;
+}
+.card-img-top1{
+    min-height: 40%;
+}
+.navbar-brand {
+  font-size: 32px; /* Untuk mengatur font size di navbar brand
+}
+
+.nav-link {
+  text-transform: uppercase; /* Untuk mengubah semua huruf di navlink menjadi uppercase */
+  margin-right: 32px; /* Memberikan jarak ke kanan sebesar 32px pada nav-link*/
+}
+.navbar-brand, .nav-link {
+  color: rgb(0, 0, 0) !important; /* Untuk mengubah warna navbar bran dan nav-link */
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5); /* Untuk memberikan efek shadow pada text */
+}
+
+.nav-link:hover::after {
+  content: '';
+  display: block;
+  border-bottom: 3px solid black;
+  width: 40%;
+  margin: auto;
+  padding-bottom: 3px;
+  margin-bottom: -6px;
+}
+
+.navbar:hover {
+  box-shadow: 3px 3px 30px 3px #3807eb73;
+}
+.navbar{
+    color: rgb(0, 0, 139) !important; /* Untuk mengubah warna navbar bran dan nav-link */
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5); /* Untuk memberikan efek shadow pada text */
+}
+
+#fb {
+    width: 130px;
+}
+
+#ig {
+    width: 100px;
+}
+
+.list-group {
+    width: 330px;
+}
+
+#Gambar1 {
+    width: 80px;
+    margin-left: 10px;
+}
+
+#Gambar1 {
+    box-shadow: 3px 3px 30px 3px rgba(6, 60, 238, 0.5);
+}
+
+#button {
+    height: -50px;
+    margin-top: -70px;
+    margin-right: 100%;
+}
+.col-sm-tangan{
+    margin: auto;
+    margin-left: 80px;
+}
+.a{
+    margin-top: 50px;
+    width: 40%;
+    margin-left: 250px;
+}
+.p-3{
+    margin-top: 40px;
+}
+.text{
+    color: rgb(245, 222, 179) !important; /* Untuk mengubah warna navbar bran dan nav-link */
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5); /* Untuk memberikan efek shadow pada text */
+}
